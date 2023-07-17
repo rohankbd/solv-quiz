@@ -1,0 +1,422 @@
+{
+    "topics": {
+      "1": {
+        "topicID": "HTML",
+        "title": "HTML",
+        "noq": 5
+      },
+      "2": {
+        "topicID": "SQL",
+        "title": "SQL",
+        "noq": 5
+      },
+      "3": {
+        "topicID": "Python",
+        "title": "Python",
+        "noq": 5
+      },
+      "4": {
+        "topicID": "Null",
+        "title": "New Quiz Coming Soon",
+        "noq": 0
+      },
+      "5": {
+        "topicID": "Null",
+        "title": "New Quiz Coming Soon",
+        "noq": 0
+      },
+      "6": {
+        "topicID": "Null",
+        "title": "New Quiz Coming Soon",
+        "noq": 0
+      }
+    },
+    "quiz": {
+      "HTML": {
+        "questions": [
+          {
+            "title": "What does HTML stands for?",
+            "options": [
+              {
+                "title": "Home Tool Markup Language"
+              },
+              {
+                "title": "Hyperlinks and Text Markup Language"
+              },
+              {
+                "title": "Hyper Text Marking Language"
+              },
+              {
+                "title": "Hyper Text Markup Language",
+                "correct": true
+              },
+              {
+                "title": "Hypo Text Markup Language"
+              },
+              {
+                "title": "Higher order Text Marker Linguistics"
+              }
+            ]
+          },
+          {
+            "title": "Choose the correct HTML element for the largest heading:",
+            "options": [
+              {
+                "title": "<heading>"
+              },
+              {
+                "title": "<h1/>"
+              },
+              {
+                "title": "<h1>",
+                "correct": true
+              },
+              {
+                "title": "<h6>"
+              },
+              {
+                "title": "<h>"
+              },
+              {
+                "title": "<head>"
+              }
+            ]
+          },
+          {
+            "title": "What is the correct HTML element to define important text?",
+            "options": [
+              {
+                "title": "<i>"
+              },
+              {
+                "title": "<important>"
+              },
+              {
+                "title": "<strong>",
+                "correct": true
+              },
+              {
+                "title": "<text>"
+              },
+              {
+                "title": "<imp>"
+              },
+              {
+                "title": "None of the above"
+              }
+            ]
+          },
+          {
+            "title": "Identify the Block element(s)?",
+            "options": [
+              {
+                "title": "<p>",
+                "correct": true
+              },
+              {
+                "title": "<div>",
+                "correct": true
+              },
+              {
+                "title": "<main>",
+                "correct": true
+              },
+              {
+                "title": "<nav>",
+                "correct": true
+              },
+              {
+                "title": "<fieldset>",
+                "correct": true
+              },
+              {
+                "title": "<hr>",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "title": "Identify the Inline element(s).",
+            "options": [
+              {
+                "title": "<a>",
+                "correct": true
+              },
+              {
+                "title": "<q>",
+                "correct": true
+              },
+              {
+                "title": "<bdo>",
+                "correct": true
+              },
+              {
+                "title": "<img>",
+                "correct": true
+              },
+              {
+                "title": "<button>",
+                "correct": true
+              },
+              {
+                "title": "<li>"
+              }
+            ]
+          }
+        ]
+      },
+      "SQL": {
+        "questions": [
+          {
+            "title": "What is the full form of SQL?",
+            "options": [
+              {
+                "title": "Structure Query Language"
+              },
+              {
+                "title": "Structural Query Language"
+              },
+              {
+                "title": "Structured Query Language",
+                "correct": true
+              },
+              {
+                "title": "Simulated Query Language"
+              },
+              {
+                "title": "Structured Query Linguistics"
+              },
+              {
+                "title": "None of the above"
+              }
+            ]
+          },
+          {
+            "title": "What are not the examples of SQL databases?",
+            "options": [
+              {
+                "title": "MySQL"
+              },
+              {
+                "title": "Cassandra",
+                "correct": true
+              },
+              {
+                "title": "Oracle"
+              },
+              {
+                "title": "MongoDB",
+                "correct": true
+              },
+              {
+                "title": "Hypertable",
+                "correct": true
+              },
+              {
+                "title": "PostgreSQL"
+              }
+            ]
+          },
+          {
+            "title": "What command is used to create a new table in SQL?",
+            "options": [
+              {
+                "title": "create table",
+                "correct": true
+              },
+              {
+                "title": "CREATE TABLE",
+                "correct": true
+              },
+              {
+                "title": "BUILD TABLE"
+              },
+              {
+                "title": "build table"
+              },
+              {
+                "title": "create new table"
+              },
+              {
+                "title": "CREATE NEW TABLE"
+              }
+            ]
+          },
+          {
+            "title": "Which of the following is the full form of DDL?",
+            "options": [
+              {
+                "title": "Data Defination Language"
+              },
+              {
+                "title": "Data Definition Language",
+                "correct": true
+              },
+              {
+                "title": "Data Derivation Language"
+              },
+              {
+                "title": "Dynamic Data Language"
+              },
+              {
+                "title": "Detailed Data Language"
+              },
+              {
+                "title": "Data Declarative Language"
+              }
+            ]
+          },
+          {
+            "title": "Which of the following allows you to uniquely identify a tuple?",
+            "options": [
+              {
+                "title": "schema"
+              },
+              {
+                "title": "Attribute"
+              },
+              {
+                "title": "Super key",
+                "correct": true
+              },
+              {
+                "title": "Domain"
+              },
+              {
+                "title": "unique"
+              },
+              {
+                "title": "None of the above"
+              }
+            ]
+          }
+        ]
+      },
+      "Python": {
+        "questions": [
+          {
+            "title": "Who invented Python?",
+            "options": [
+              {
+                "title": "Dennis Ritchie"
+              },
+              {
+                "title": "Guido van Rossum",
+                "correct": true
+              },
+              {
+                "title": "Brian Kernighan"
+              },
+              {
+                "title": "Bjarne Stroustrup"
+              },
+              {
+                "title": "James Gosling"
+              },
+              {
+                "title": "Gennady Korotkevich"
+              }
+            ]
+          },
+          {
+            "title": "When was Python invented?",
+            "options": [
+              {
+                "title": "September 1991"
+              },
+              {
+                "title": "October 1999"
+              },
+              {
+                "title": "February 1991",
+                "correct": true
+              },
+              {
+                "title": "January 1992"
+              },
+  
+              {
+                "title": "December 1995"
+              },
+              {
+                "title": "March 1996"
+              }
+            ]
+          },
+          {
+            "title": "What is the correct file extension for Python files?",
+            "options": [
+              {
+                "title": ".py",
+                "correct": true
+              },
+              {
+                "title": ".p"
+              },
+              {
+                "title": ".pyt"
+              },
+              {
+                "title": ".pip"
+              },
+              {
+                "title": ".code"
+              },
+              {
+                "title": ".pn"
+              }
+            ]
+          },
+          {
+            "title": "Which method can be used to return a string in upper case letters?",
+            "options": [
+              {
+                "title": "toUpperCase()"
+              },
+              {
+                "title": "upperCase()"
+              },
+              {
+                "title": "uppercase()"
+              },
+              {
+                "title": "upper()",
+                "correct": true
+              },
+              {
+                "title": "toUpper()"
+              },
+              {
+                "title": "None of the above"
+              }
+            ]
+          },
+          {
+            "title": "What is a correct syntax to output 'Hello World' in Python?",
+            "options": [
+              {
+                "title": "print('Hello World')",
+                "correct": true
+              },
+              {
+                "title": "echo 'Hello World'"
+              },
+              {
+                "title": "echo ('Hello World');"
+              },
+              {
+                "title": "p('Hello World')"
+              },
+              {
+                "title": "printf('Hello World')"
+              },
+              {
+                "title": "None of the above"
+              }
+            ]
+          }
+        ]
+      }
+    }
+}
+  
