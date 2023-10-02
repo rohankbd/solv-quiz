@@ -23,7 +23,7 @@
 
 **Live Link**
 
-- [Solv - Quiz Application](To be updated soon!)
+- [Solv - Quiz Application](https://solv-53725.web.app/)
 
 <br/>
 
@@ -55,9 +55,3 @@
 
 - ESLint
 - Prettier
-
-<br/>
-
-**Demo Video**
-
-<img src="./media/Solv-Demo.gif" alt="Demo Video">
