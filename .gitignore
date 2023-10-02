@@ -24,3 +24,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.firebase/
+.firebaserc
+
+database.rules.json
+
+yarn.lock
+
+*.log
+*.tmp
+*.swp
+
+\.github
