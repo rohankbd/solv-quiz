@@ -35,5 +35,3 @@ yarn.lock
 *.log
 *.tmp
 *.swp
-
-\.github
